@@ -4,7 +4,7 @@ import { teamMembers } from '@/data/team';
 
 export function TeamSection() {
   return (
-    <Section id="team">
+    <Section>
       <div className="text-center mb-12">
         <h2 className="text-3xl md:text-4xl font-bold font-display mb-4">
           Meet Our Team

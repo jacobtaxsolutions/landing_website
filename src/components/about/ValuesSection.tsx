@@ -12,7 +12,7 @@ const iconMap = {
 
 export function ValuesSection() {
   return (
-    <Section background="gray" id="values">
+    <Section background="gray">
       <div className="text-center mb-12">
         <h2 className="text-3xl md:text-4xl font-bold font-display mb-4">
           Our Values
