@@ -107,15 +107,6 @@ export function Footer() {
               <Facebook size={20} />
             </a>
             <a
-              href="https://twitter.com"
-              className="hover:text-white transition-colors"
-              aria-label="Twitter"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <Twitter size={20} />
-            </a>
-            <a
               href="https://linkedin.com"
               className="hover:text-white transition-colors"
               aria-label="LinkedIn"

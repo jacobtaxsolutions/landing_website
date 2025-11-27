@@ -7,7 +7,6 @@ export const mainNavigation: NavLink[] = [
     label: 'Services',
     href: '/services',
     submenu: [
-      { label: 'All Services', href: '/services' },
       { label: 'Individual Services', href: '/services/individual' },
       { label: 'Business Services', href: '/services/business' },
     ],
