@@ -17,9 +17,10 @@ const outfit = Outfit({
 });
 
 export const metadata: Metadata = {
-  title: "YourTax Services - Expert Tax Solutions",
-  description: "Professional tax services with 22 years of experience. 100% online, free draft in 24 hours.",
+  title: "Jacob Tax Solutions - Expert Tax Services for Indian-Americans",
+  description: "Jacob Tax Solutions provides professional tax services for Indian-Americans with 22+ years of experience. 100% online service, free draft in 24 hours.",
   keywords: [
+    "Jacob Tax Solutions",
     "USA tax filing services",
     "IRS tax help",
     "Business tax preparation USA",
@@ -30,10 +31,9 @@ export const metadata: Metadata = {
     "State tax filing USA",
     "Affordable tax preparation USA",
     "Self-employed tax filing USA",
+    "Indian-American tax services",
     "tax preparation services",
     "tax consultant",
-    "tax filing",
-    "tax returns",
   ],
 };
 

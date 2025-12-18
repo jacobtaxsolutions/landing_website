@@ -5,15 +5,15 @@ import { ContactInfo } from '@/components/contact/ContactInfo';
 import { BusinessHours } from '@/components/contact/BusinessHours';
 
 export const metadata: Metadata = {
-  title: 'Tax Accountant Near Me USA | Contact Us - YourTax Services',
+  title: 'Contact Us | Tax Accountant Near Me USA | Jacob Tax Solutions',
   description:
-    'Looking for a tax accountant near you in the USA? Get personalized tax services from certified professionals. Contact us for a free consultation.',
+    'Contact Jacob Tax Solutions for personalized tax services. Get a free consultation from certified tax professionals serving Indian-Americans nationwide.',
   keywords: [
+    'Jacob Tax Solutions contact',
     'tax accountant near me USA',
     'local tax services',
     'online tax accountant',
     'certified tax professional',
-    'tax consultation',
   ],
 };
 

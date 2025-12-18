@@ -6,7 +6,7 @@ import { getServiceBySlug } from '@/data/services';
 import { notFound } from 'next/navigation';
 
 export const metadata: Metadata = {
-  title: 'FBAR & FATCA Compliance - YourTax Services',
+  title: 'FBAR & FATCA Compliance - Jacob Tax Solutions',
   description: 'Foreign account reporting compliance. Expert FBAR and FATCA filing assistance for international accounts.',
 };
 

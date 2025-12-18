@@ -5,10 +5,11 @@ import { CTASection } from '@/components/home/CTASection';
 import { individualServices, businessServices } from '@/data/services';
 
 export const metadata: Metadata = {
-  title: 'Tax Services | Individual & Business Tax Preparation USA - YourTax Services',
+  title: 'Tax Services | Individual & Business Tax Preparation | Jacob Tax Solutions',
   description:
-    'Comprehensive tax services for individuals and businesses in the USA. Expert tax planning, preparation, and filing services. Affordable and accurate.',
+    'Jacob Tax Solutions offers comprehensive tax services for individuals and businesses. Expert tax planning, preparation, and filing for Indian-Americans nationwide.',
   keywords: [
+    'Jacob Tax Solutions',
     'business tax preparation USA',
     'individual tax services',
     'tax preparation services',

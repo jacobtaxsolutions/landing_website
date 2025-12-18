@@ -112,9 +112,9 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
               Need Help With Your Taxes?
             </h3>
             <p className="text-neutral-600 mb-6">
-              Our team of experienced tax professionals is here to help. Whether
-              you need assistance with tax filing, IRS issues, or tax planning,
-              we&apos;re ready to support you.
+              The team at Jacob Tax Solutions is here to help. Whether you need
+              assistance with tax filing, IRS issues, or tax planning,
+              we&apos;re ready to support you with 22+ years of experience.
             </p>
             <Link
               href="/contact"

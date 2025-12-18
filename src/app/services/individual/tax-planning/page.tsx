@@ -6,7 +6,7 @@ import { getServiceBySlug } from '@/data/services';
 import { notFound } from 'next/navigation';
 
 export const metadata: Metadata = {
-  title: 'Tax Planning & Advisory - YourTax Services',
+  title: 'Tax Planning & Advisory - Jacob Tax Solutions',
   description: 'Strategic tax planning services to minimize your tax liability and maximize savings. Expert year-round tax advisory.',
 };
 

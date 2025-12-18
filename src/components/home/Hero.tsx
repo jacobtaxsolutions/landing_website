@@ -7,22 +7,25 @@ export function Hero() {
     <section className="relative min-h-[90vh] flex items-center bg-gradient-to-br from-primary-600 to-accent-500">
       <Container>
         <div className="max-w-3xl text-white py-20">
+          <p className="text-lg md:text-xl mb-4 text-white/90 font-medium">
+            Welcome to Jacob Tax Solutions
+          </p>
           <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold font-display mb-6 leading-tight">
-            Expert Tax Services for Indian-Americans
+            Trusted Tax Services for Indian-Americans
           </h1>
           <p className="text-xl md:text-2xl mb-8 text-white/90">
-            22 Years of Experience | 100% Online | Free Draft in 24 Hours
+            22+ Years of Experience | 100% Online | Free Draft in 24 Hours
           </p>
           <div className="flex flex-col sm:flex-row gap-4">
             <Button asChild size="lg" variant="secondary">
-              <Link href="/contact">Get Started</Link>
+              <Link href="/contact">Get Your Free Consultation</Link>
             </Button>
             <Button
               asChild
               size="lg"
               className="bg-white/10 hover:bg-white/20 text-white border-2 border-white"
             >
-              <Link href="/services">Learn More</Link>
+              <Link href="/services">Explore Our Services</Link>
             </Button>
           </div>
 
@@ -68,7 +71,7 @@ export function Hero() {
                   clipRule="evenodd"
                 />
               </svg>
-              <span>Satisfaction Guaranteed</span>
+              <span>10,000+ Satisfied Clients</span>
             </div>
           </div>
         </div>

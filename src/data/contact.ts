@@ -2,7 +2,7 @@ import type { ContactInfo } from '@/lib/types';
 
 export const contactInfo: ContactInfo = {
   phone: '+1-888-TAX-HELP',
-  email: 'info@yourtaxservices.com',
+  email: 'info@jacobtaxsolutions.com',
   address: {
     street: '123 Business Plaza',
     city: 'Sterling',

@@ -5,7 +5,7 @@ import { CTASection } from '@/components/home/CTASection';
 import { individualServices } from '@/data/services';
 
 export const metadata: Metadata = {
-  title: 'Individual Tax Services - YourTax Services',
+  title: 'Individual Tax Services - Jacob Tax Solutions',
   description: 'Expert tax services for individuals including tax planning, preparation, ITIN application, FBAR/FATCA filing, and more.',
 };
 

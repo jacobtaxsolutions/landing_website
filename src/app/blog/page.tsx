@@ -5,17 +5,17 @@ import { CTASection } from '@/components/home/CTASection';
 import { blogPosts } from '@/data/blog';
 
 export const metadata: Metadata = {
-  title: 'Tax Blog | Expert Tax Tips & Guides - YourTax Services',
+  title: 'Tax Blog | Expert Tax Tips & Guides | Jacob Tax Solutions',
   description:
-    'Expert tax insights, tips, and guides for individuals and businesses. Stay informed about USA tax filing, IRS help, and tax planning strategies.',
+    'Expert tax insights, tips, and guides from Jacob Tax Solutions. Stay informed about USA tax filing, IRS help, and tax planning strategies for Indian-Americans.',
   keywords: [
+    'Jacob Tax Solutions blog',
     'tax blog',
     'tax tips',
     'tax guides',
     'IRS tax help',
     'USA tax filing services',
     'tax planning advice',
-    'self-employed tax filing USA',
   ],
 };
 

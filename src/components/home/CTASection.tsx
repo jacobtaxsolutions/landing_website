@@ -10,7 +10,8 @@ export function CTASection() {
           Ready to Simplify Your Taxes?
         </h2>
         <p className="text-xl mb-8 text-white/90 max-w-2xl mx-auto">
-          Get started today and experience hassle-free tax services
+          Contact Jacob Tax Solutions today and experience hassle-free tax
+          services with a free consultation and draft in 24 hours
         </p>
         <Button asChild size="lg" variant="secondary">
           <Link href="/contact">Get Your Free Consultation</Link>

@@ -6,7 +6,7 @@ import { getServiceBySlug } from '@/data/services';
 import { notFound } from 'next/navigation';
 
 export const metadata: Metadata = {
-  title: 'Business Formation Consulting - YourTax Services',
+  title: 'Business Formation Consulting - Jacob Tax Solutions',
   description: 'Expert business incorporation and entity formation services. LLC, S-Corp setup and consulting.',
 };
 

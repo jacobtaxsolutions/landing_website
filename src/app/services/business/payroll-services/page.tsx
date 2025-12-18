@@ -6,7 +6,7 @@ import { getServiceBySlug } from '@/data/services';
 import { notFound } from 'next/navigation';
 
 export const metadata: Metadata = {
-  title: 'Payroll Processing Services - YourTax Services',
+  title: 'Payroll Processing Services - Jacob Tax Solutions',
   description: 'Complete payroll management and compliance. Direct deposit, tax withholding, W-2 and 1099 preparation.',
 };
 

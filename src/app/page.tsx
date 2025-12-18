@@ -6,16 +6,17 @@ import { StatsSection } from '@/components/home/StatsSection';
 import { CTASection } from '@/components/home/CTASection';
 
 export const metadata: Metadata = {
-  title: 'USA Tax Filing Services | Fast, Accurate & Affordable - YourTax Services',
+  title: 'USA Tax Filing Services | Fast, Accurate & Affordable | Jacob Tax Solutions',
   description:
-    'Professional USA tax filing services for individuals and businesses. File federal and state taxes accurately with expert support. 22+ years of experience.',
+    'Jacob Tax Solutions provides professional USA tax filing services for Indian-Americans. File federal and state taxes accurately with 22+ years of expert support.',
   keywords: [
+    'Jacob Tax Solutions',
     'USA tax filing services',
     'tax preparation',
     'federal tax filing',
     'state tax filing',
     'tax accountant near me USA',
-    'affordable tax preparation USA',
+    'Indian-American tax services',
   ],
 };
 

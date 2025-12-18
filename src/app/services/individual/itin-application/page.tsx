@@ -6,7 +6,7 @@ import { getServiceBySlug } from '@/data/services';
 import { notFound } from 'next/navigation';
 
 export const metadata: Metadata = {
-  title: 'ITIN Application Processing - YourTax Services',
+  title: 'ITIN Application Processing - Jacob Tax Solutions',
   description: 'Expert ITIN application services. IRS-approved Certifying Acceptance Agents for Individual Tax Identification Numbers.',
 };
 

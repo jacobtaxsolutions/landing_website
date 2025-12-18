@@ -6,7 +6,7 @@ import { getServiceBySlug } from '@/data/services';
 import { notFound } from 'next/navigation';
 
 export const metadata: Metadata = {
-  title: 'Business Tax Return Planning & Preparation - YourTax Services',
+  title: 'Business Tax Return Planning & Preparation - Jacob Tax Solutions',
   description: 'Comprehensive business tax services for S-Corps, LLCs, and partnerships. Expert tax planning and preparation.',
 };
 

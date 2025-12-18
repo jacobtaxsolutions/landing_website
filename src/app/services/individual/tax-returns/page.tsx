@@ -6,7 +6,7 @@ import { getServiceBySlug } from '@/data/services';
 import { notFound } from 'next/navigation';
 
 export const metadata: Metadata = {
-  title: 'Tax Return Services - YourTax Services',
+  title: 'Tax Return Services - Jacob Tax Solutions',
   description: 'Professional tax return preparation and filing services. Expert evaluation and processing of individual tax returns.',
 };
 

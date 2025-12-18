@@ -5,7 +5,7 @@ import { CTASection } from '@/components/home/CTASection';
 import { businessServices } from '@/data/services';
 
 export const metadata: Metadata = {
-  title: 'Business Tax Services - YourTax Services',
+  title: 'Business Tax Services - Jacob Tax Solutions',
   description: 'Professional tax solutions for businesses. S-Corp, LLC tax planning, bookkeeping, payroll, and incorporation services.',
 };
 

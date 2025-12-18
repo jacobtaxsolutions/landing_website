@@ -10,7 +10,8 @@ export function ServicesOverview() {
           Our Services
         </h2>
         <p className="text-xl text-neutral-600">
-          Comprehensive tax solutions for individuals and businesses
+          Jacob Tax Solutions provides comprehensive tax services for
+          individuals and businesses across the USA
         </p>
       </div>
 

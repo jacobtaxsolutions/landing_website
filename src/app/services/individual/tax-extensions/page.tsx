@@ -6,7 +6,7 @@ import { getServiceBySlug } from '@/data/services';
 import { notFound } from 'next/navigation';
 
 export const metadata: Metadata = {
-  title: 'Tax Extension Filing - YourTax Services',
+  title: 'Tax Extension Filing - Jacob Tax Solutions',
   description: 'Tax deadline extension assistance. Expert Form 4868 filing and extension planning services.',
 };
 

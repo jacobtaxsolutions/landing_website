@@ -6,7 +6,7 @@ import { getServiceBySlug } from '@/data/services';
 import { notFound } from 'next/navigation';
 
 export const metadata: Metadata = {
-  title: 'Full Tax Preparation - YourTax Services',
+  title: 'Full Tax Preparation - Jacob Tax Solutions',
   description: 'Comprehensive tax preparation and filing support. Expert service from document collection to final filing.',
 };
 

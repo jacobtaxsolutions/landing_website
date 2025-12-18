@@ -6,7 +6,7 @@ import { getServiceBySlug } from '@/data/services';
 import { notFound } from 'next/navigation';
 
 export const metadata: Metadata = {
-  title: 'Accounting & Bookkeeping Services - YourTax Services',
+  title: 'Accounting & Bookkeeping Services - Jacob Tax Solutions',
   description: 'Professional bookkeeping and financial record maintenance. QuickBooks support and monthly accounting.',
 };
 
