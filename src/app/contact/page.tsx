@@ -5,8 +5,16 @@ import { ContactInfo } from '@/components/contact/ContactInfo';
 import { BusinessHours } from '@/components/contact/BusinessHours';
 
 export const metadata: Metadata = {
-  title: 'Contact Us - YourTax Services',
-  description: 'Get in touch with our tax professionals. Contact us for expert tax services and consultation.',
+  title: 'Tax Accountant Near Me USA | Contact Us - YourTax Services',
+  description:
+    'Looking for a tax accountant near you in the USA? Get personalized tax services from certified professionals. Contact us for a free consultation.',
+  keywords: [
+    'tax accountant near me USA',
+    'local tax services',
+    'online tax accountant',
+    'certified tax professional',
+    'tax consultation',
+  ],
 };
 
 export default function ContactPage() {

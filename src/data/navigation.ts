@@ -11,6 +11,7 @@ export const mainNavigation: NavLink[] = [
       { label: 'Business Services', href: '/services/business' },
     ],
   },
+  { label: 'Blog', href: '/blog' },
   { label: 'Contact', href: '/contact' },
 ];
 
@@ -28,6 +29,7 @@ export const footerNavigation = {
   company: [
     { label: 'Contact', href: '/contact' },
     { label: 'FAQs', href: '/contact#faqs' },
+    { label: 'Blog', href: '/blog' },
   ],
   legal: [
     { label: 'Privacy Policy', href: '/privacy-policy' },

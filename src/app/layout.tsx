@@ -19,6 +19,22 @@ const outfit = Outfit({
 export const metadata: Metadata = {
   title: "YourTax Services - Expert Tax Solutions",
   description: "Professional tax services with 22 years of experience. 100% online, free draft in 24 hours.",
+  keywords: [
+    "USA tax filing services",
+    "IRS tax help",
+    "Business tax preparation USA",
+    "Tax accountant near me USA",
+    "ITIN application assistance",
+    "EIN application services",
+    "Federal tax filing services",
+    "State tax filing USA",
+    "Affordable tax preparation USA",
+    "Self-employed tax filing USA",
+    "tax preparation services",
+    "tax consultant",
+    "tax filing",
+    "tax returns",
+  ],
 };
 
 export default function RootLayout({

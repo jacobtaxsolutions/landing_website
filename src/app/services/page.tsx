@@ -5,8 +5,16 @@ import { CTASection } from '@/components/home/CTASection';
 import { individualServices, businessServices } from '@/data/services';
 
 export const metadata: Metadata = {
-  title: 'Tax Services - YourTax Services',
-  description: 'Comprehensive tax solutions for individuals and businesses. Expert tax planning, preparation, and filing services.',
+  title: 'Tax Services | Individual & Business Tax Preparation USA - YourTax Services',
+  description:
+    'Comprehensive tax services for individuals and businesses in the USA. Expert tax planning, preparation, and filing services. Affordable and accurate.',
+  keywords: [
+    'business tax preparation USA',
+    'individual tax services',
+    'tax preparation services',
+    'federal tax filing services',
+    'state tax filing USA',
+  ],
 };
 
 export default function ServicesPage() {
