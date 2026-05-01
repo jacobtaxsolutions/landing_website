@@ -1,13 +1,13 @@
 import type { ContactInfo } from '@/lib/types';
 
 export const contactInfo: ContactInfo = {
-  phone: '+1-888-TAX-HELP',
-  email: 'info@jacobtaxsolutions.com',
+  phone: '+1-307-212-9097',
+  email: 'jacobtaxsolutions@gmail.com',
   address: {
-    street: '123 Business Plaza',
-    city: 'Sterling',
-    state: 'VA',
-    zip: '20164',
+    street: '30 N Gould St',
+    city: 'Sheridan',
+    state: 'WY',
+    zip: '82801',
   },
   businessHours: [
     { day: 'Monday - Friday', hours: '9:00 AM - 6:00 PM EST' },

@@ -55,20 +55,20 @@ export default function ContactPage() {
             Our Location
           </h2>
           <p className="text-lg text-neutral-600">
-            Visit us at our Sterling, VA office
+            Visit us at our Sheridan, WY office
           </p>
         </div>
 
         <div className="w-full h-96 rounded-xl overflow-hidden shadow-lg">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d99370.42!2d-77.4286!3d38.9956!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b64e9b98e9ba63%3A0x1f6d70f76ff9ad49!2sSterling%2C%20VA!5e0!3m2!1sen!2sus!4v1234567890"
+            src="https://www.google.com/maps?q=30+N+Gould+St,+Sheridan,+WY+82801&output=embed"
             width="100%"
             height="100%"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
             referrerPolicy="no-referrer-when-downgrade"
-            title="Sterling, VA location"
+            title="Sheridan, WY location"
           />
         </div>
       </Section>

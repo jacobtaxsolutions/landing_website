@@ -6,7 +6,10 @@
       "Bash(npx create-next-app@latest . --typescript --tailwind --app --src-dir --import-alias \"@/*\" --no-git)",
       "Bash(dir:*)",
       "Bash(npm install:*)",
-      "Bash(npm run dev:*)"
+      "Bash(npm run dev:*)",
+      "Bash(git config:*)",
+      "Bash(npm run build)",
+      "Bash(npx tsc *)"
     ],
     "deny": [],
     "ask": []
